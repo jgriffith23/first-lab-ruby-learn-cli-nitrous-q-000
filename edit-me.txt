@@ -1,0 +1,9 @@
+Hello, first lab! :)
+
+In case anyone's reading this, I couldn't see the "Open" buttons in my
+lab (still can't), but I did manage to get my Nitrous environment set up
+by installing several gems from Learn.co's GitHub. I might suggest
+making the environment setup process a bit more explicit somewhere, as
+I'm still not certain how I was supposed to set everything up.
+
+Cheers!
